@@ -178,5 +178,3 @@ let newProductName, newUnitPrice, newQuantity
 console.log(newProductName)
 console.log(newUnitPrice)
 console.log(newQuantity)
-
->>>>>>> 913ee0044458ba0401b6785ff179f907b3fb0c1e
