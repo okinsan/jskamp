@@ -1,5 +1,5 @@
 function addToCart(quantity,productName="Elma") {
-<<<<<<< HEAD
+
     console.log("Sepete Eklendi. Ürün : "+ productName + "   Adet : "+quantity)
 }
 
@@ -9,7 +9,6 @@ addToCart(15)
 
 let sayHello = ()=>{
     console.log("Hello")
-=======
     console.log("Sepete eklendi : ürün : " 
     + productName + " adet : " + quantity)
 }
@@ -20,13 +19,11 @@ addToCart(10)
 
 let sayHello = ()=>{
     console.log("Hello World!")
->>>>>>> 913ee0044458ba0401b6785ff179f907b3fb0c1e
 }
 
 sayHello()
 
 let sayHello2 = function () {
-<<<<<<< HEAD
     console.log("Hello2")
 }
 
@@ -41,7 +38,7 @@ function addToCart2(product) {
 addToCart2(product1)
 
 function addToCart3(products) {
-=======
+
     console.log("Hello World 2")
 }
 
@@ -79,12 +76,11 @@ sayi2 = 100
 console.log(sayi1)
 
 function addToCart4(products) {
->>>>>>> 913ee0044458ba0401b6785ff179f907b3fb0c1e
     console.log(products)
 }
 
 let products = [
-<<<<<<< HEAD
+
     {productName:"Karpuz", unitPrice:10, quantity:5},
     {},
     {}
@@ -131,7 +127,7 @@ let newProductName, newUnitPrice, newQuantity
 console.log(newProductName)
 console.log(newUnitPrice)
 console.log(newQuantity)
-=======
+[
     {productName:"Elma", unitPrice:10, quantity:5},
     {productName:"Armut", unitPrice:10, quantity:5},
     {productName:"Karpuz", unitPrice:10, quantity:5}
